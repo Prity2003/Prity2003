@@ -1,6 +1,6 @@
-<h1 align="center">Hi !👋 I'm Prity Aherwal</h1>
+<h1 align="left">Hi !👋 I'm Prity Aherwal</h1>
 <h3 align="left">Want to Know About Me..👩🏻‍💻👇</h3>
-<img align="right" alt="coding" width="400px" src="https://cdn-images-1.medium.com/fit/c/72/72/1*v-fD7Gm_N59ipd5qNKzcXQ.gif">
+<img align="right" alt="coding" width="400px" src="https://cdn-images-1.medium.com/fit/c/72/72/1*v-fD7Gm_N59ipd5qNKzcXQ.gif" style="backgroundcolor:black">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prity2003&label=Profile%20views&color=0e75b6&style=flat" alt="prity2003" /> </p>
 
